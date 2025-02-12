@@ -24,3 +24,4 @@ This project is a simple AI chatbot that uses Natural Language Processing (NLP) 
 - The conversation continues until the user types quit.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/8a31dee5-53fd-472d-ac11-cd1110fca9a5)
